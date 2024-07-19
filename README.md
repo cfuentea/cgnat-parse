@@ -7,7 +7,7 @@ This project is in development. It is essentially a Python script designed to pa
 ## Syslog for CGN
 - Message needs to comply to RFC5224 format.
 - Field are separated by space and non-applicable field are "-"
-- <Priority> <Version> <Time stamp> <Host name> - - <Application name (NAT44 or DSLITE)> - [Record 1][Record 2]...
+- `<Priority> <Version> <Time stamp> <Host name> - - <Application name (NAT44 or DSLITE)> - [Record 1][Record 2]...`
 
    - [EventName <L4> <Original Source IP><Inside VRF Name> <Original Source IPv6><Translated Source IP><Original Port><Translated First Source Port><Translated Last Source port>]
    - Example: NAT44 with Bulk-Port-Alloc
