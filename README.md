@@ -2,7 +2,7 @@
 This project is in development. It is essentially a Python script designed to parse Cisco and Juniper CGNAT syslog messages.
 
 
-# Cisco
+## Cisco
 ### Release
 IOS XR 6.1 or 6.3
 ### Syslog for CGN
@@ -14,7 +14,7 @@ IOS XR 6.1 or 6.3
    - Example: NAT44 with Bulk-Port-Alloc
     - `1 2023 May 31 11:30:00 10.0.0.1 - - NAT44 - [UserbasedA - 192.168.1.2 VRFName - 8.8.8.1 - 22345 23001]`
 
-# Juniper
+## Juniper
 ### Release
 Content pending
 ### Syslog for CGN
