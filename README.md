@@ -5,7 +5,7 @@ This project is in development. It is essentially a Python script designed to pa
 # Cisco
 ### Release
 IOS XR 6.1 or 6.3
-## Syslog for CGN
+### Syslog for CGN
 - Message needs to comply to RFC5224 format.
 - Field are separated by space and non-applicable field are "-"
 - `<Priority> <Version> <Time stamp> <Host name> - - <Application name (NAT44 or DSLITE)> - [Record 1][Record 2]...`
@@ -16,6 +16,6 @@ IOS XR 6.1 or 6.3
 
 # Juniper
 ### Release
-Content
-## Syslog for CGN
-- Content
+Content pending
+### Syslog for CGN
+- Content pending
